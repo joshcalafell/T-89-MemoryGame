@@ -13,11 +13,6 @@ Purpose
 -------
 This project was an exercise in preparation for a larger TI-89 RPG game I want to write. 
 
-Screenshot
-----------
-![Picture](http://rabbitfighter.net/wp-content/uploads/2014/10/dmwarescreenshot31.png)
-
-
 Author
 ------
 @rabbitfighter81
