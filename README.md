@@ -1,10 +1,10 @@
-memory
+T-89-MemoryGame
 ======
 A simple game for tthe TI-89 graphing calculator written in TI-BASIC.
 
 Navigation
 -----------
-[memory](#memory) |
+[T-89-MemoryGame](#ti-89-memorygame) |
 [Purpose](#purpose) |
 [Author](#author) |
 [Usage](#usage) | 
